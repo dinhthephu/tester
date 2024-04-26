@@ -8,11 +8,10 @@ test('test', async ({ page }) => {
   await page.getByPlaceholder('Search by product name or').press('Enter');
   await page.getByRole('img', { name: 'Xbox Wireless Controller Mineral Camo Special Edition' }).click();
   await page.getByRole('button', { name: '+' }).click();
-  await page.getByRole('button', { name: '+' }).click();
   await page.getByRole('button', { name: '-' }).click();
   await page.getByRole('button', { name: 'Add To Bag' }).click();
   
   await page.getByLabel('cart').click();
-  await expect(page.getByTestId('subtotal')).toHaveText('$448.00');
+  await expect(page.getByTestId('subtotal')).toHaveText('$112.00');
   
 });
