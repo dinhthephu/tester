@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="scala.js.scalajs.junit.test.plugin_2.13.4" type="repository">
+    <properties maven-id="org.scala-js:scalajs-junit-test-plugin_2.13.4:1.11.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scalajs-junit-test-plugin_2.13.4-1.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-compiler-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-reflect-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jline-3.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jna-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-library-2.13.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/scalajs-junit-test-plugin_2.13.4-1.11.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-compiler-2.13.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-reflect-2.13.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jline-3.16.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jna-5.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-library-2.13.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/scalajs-junit-test-plugin_2.13.4-1.11.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-compiler-2.13.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-reflect-2.13.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jline-3.16.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jna-5.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scala-library-2.13.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
